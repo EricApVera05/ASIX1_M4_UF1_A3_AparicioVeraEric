@@ -83,3 +83,16 @@ H3 crea subtitulos
 </ol>
 </br>
 <a href="https://www.google.es" target="_blank">Google</a>
+
+
+
+añadimos en el head este codigo: 
+```
+<script src="https://kit.fontawesome.com/05bd12561e.js" crossorigin="anonymous"></script> 
+```
+
+añadimos este codigo:
+```
+<i class="fa-brands fa-github">Github</i>
+```
+
