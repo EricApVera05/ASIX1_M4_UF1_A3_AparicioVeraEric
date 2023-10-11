@@ -72,12 +72,14 @@ H3 crea subtitulos
 </ol>
 ```
 
-<ol>
+<ol> crea una lista ordenada
+    <li>elemento nivel 1</li>
     <ul> crea una lista desordenada
        <li>elementos de nivel 2</li>
        <li> elemento de nivel 2</li>
        <li>elemento de nivel 2</li>
    </ul>
+   <li>elemento nivel 1</li>
 </ol>
 </br>
 <a href="https://www.google.es" target="_blank">Google</a>
