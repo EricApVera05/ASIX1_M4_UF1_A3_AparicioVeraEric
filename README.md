@@ -44,3 +44,40 @@ EJ:Titulos, parrafos, listas y tablas.
 EL-> No crea espaciado a menos que termine el bloque.
 
 EJ: Enlaces, estilos (negrita, subrallado...), y imagenes.
+
+H1 crea titulos
+
+H3 crea subtitulos
+```
+<ol>crea una lista ordenada
+    <li>crea elementos</li>
+    <li>segundo elemento</li>
+    <li>tercer elemento</li>
+</ol>
+```
+
+<ol>crea una lista ordenada
+    <li>crea elementos</li>
+    <li>segundo elemento</li>
+    <li>tercer elemento</li>
+</ol>
+
+```
+<ol>
+    <ul> crea una lista desordenada
+       <li>elementos de nivel 2</li>
+       <li> elemento de nivel 2</li>
+       <li>elemento de nivel 2</li>
+   </ul>
+</ol>
+```
+
+<ol>
+    <ul> crea una lista desordenada
+       <li>elementos de nivel 2</li>
+       <li> elemento de nivel 2</li>
+       <li>elemento de nivel 2</li>
+   </ul>
+</ol>
+</br>
+<a href="https://www.google.es" target="_blank">Google</a>
