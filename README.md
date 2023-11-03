@@ -96,10 +96,14 @@ añadimos este codigo:
 <i class="fa-brands fa-github">Github</i>
 ```
 
-<h1>CSS</h1>
+<h1> 03/11/2023 CSS</h1>
 3 Formas de implementar
 En la propia etiqueta (puntual)
 Estilo in-line
+Primero se define a que elemento afecta (selector)
+Lo siguiente son las declaraciones;
+selector declaracion:valor;
+
 En el Head (afectación a varios elementos de una misma pagina)
 Inserción Interna
 Archivo externo [Utilización en todas(o varias) las paginas del site]
