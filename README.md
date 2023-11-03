@@ -95,3 +95,12 @@ añadimos este codigo:
 ```
 <i class="fa-brands fa-github">Github</i>
 ```
+
+<h1>CSS</h1>
+3 Formas de implementar
+En la propia etiqueta (puntual)
+Estilo in-line
+En el Head (afectación a varios elementos de una misma pagina)
+Inserción Interna
+Archivo externo [Utilización en todas(o varias) las paginas del site]
+Inserción Externa
