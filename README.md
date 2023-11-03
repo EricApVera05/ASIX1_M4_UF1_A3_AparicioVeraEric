@@ -103,6 +103,7 @@ Estilo in-line
 Primero se define a que elemento afecta (selector)
 Lo siguiente son las declaraciones;
 selector declaracion:valor;
+Tiene prioridad frente a la inserción interna.
 
 En el Head (afectación a varios elementos de una misma pagina)
 Inserción Interna
