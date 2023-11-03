@@ -107,5 +107,6 @@ Tiene prioridad frente a la inserción interna.
 
 En el Head (afectación a varios elementos de una misma pagina)
 Inserción Interna
+
 Archivo externo [Utilización en todas(o varias) las paginas del site]
 Inserción Externa
