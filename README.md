@@ -110,3 +110,4 @@ Inserción Interna
 
 Archivo externo [Utilización en todas(o varias) las paginas del site]
 Inserción Externa
+Para insertar de manera externa debemos añadir un link para enlazar el otro documento.
