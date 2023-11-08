@@ -111,3 +111,31 @@ Inserción Interna
 Archivo externo [Utilización en todas(o varias) las paginas del site]
 Inserción Externa
 Para insertar de manera externa debemos añadir un link para enlazar el otro documento.
+
+Selectores
+
+Universal 
+Sintaxis: * {}
+
+Selector etiqueta
+Sintaxis: etiqueta { atributo:valor }
+
+Selector clase
+Sintaxis: .clase { atributo:valor }
+
+Selector ID
+Un selector de ID está diseñado para seleccionar elementos con base en su atributo de ID.
+Sintaxis: #id{}
+
+Combinacion de selectores
+La combinación de selectores nos permite dar un estilo a todos los selectores indicados.
+Sintaxis: selector1, selector2{}
+
+Selector de hijos
+Se usa para seleccionar un elemento que es hijo de otro elemento.
+Diferencia entre selector de hijos y selector descendiente. Los hijos son los elementos que se encuentran un nivel directamente debajo de el mismo elemento section. Los descendientes son todos los elementos que se encuentran dentro del elemento section sean los mismos hijos o los hijos de los hijos.
+Sintaxis: selector1 > selector2 {}
+
+Selector descendiente
+Un elemento es descendiente de otro cuando se encuentra entre las etiquetas de apertura y de cierre del elemento padre.
+Sintaxis: selector1 selector2{}
