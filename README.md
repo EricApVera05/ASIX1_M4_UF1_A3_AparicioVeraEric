@@ -12,7 +12,9 @@ git push: Sube cambios a un repositorio remoto.
 git pull: Descarga cambios de un repositorio remoto.
 
 git branch: Muestra y crea ramas.
+
 06/10/2023
+
 HTML
 ======================
 Las etiquetas se dividen en etiquetas de apertura y etiquetas de cierre.
