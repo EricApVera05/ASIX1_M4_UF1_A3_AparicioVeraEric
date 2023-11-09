@@ -1,5 +1,17 @@
 # ASIX1_M4_UF1_A3_AparicioVeraEric
+GIT
+======================
+git init: Inicializa un repositorio.
 
+git add: Añade cambios al área de preparación.
+
+git commit: Guarda los cambios en el repositorio.
+
+git push: Sube cambios a un repositorio remoto.
+
+git pull: Descarga cambios de un repositorio remoto.
+
+git branch: Muestra y crea ramas.
 06/10/2023
 HTML
 ======================
