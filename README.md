@@ -153,3 +153,18 @@ Sintaxis: selector1 > selector2 {}
 Selector descendiente
 Un elemento es descendiente de otro cuando se encuentra entre las etiquetas de apertura y de cierre del elemento padre.
 Sintaxis: selector1 selector2{}
+
+13/12/2023
+
+DIV
+======================
+Estructura los elementos.
+
+El bloque se adapta al contenido que tenga dentro
+
+El borde es la linea perimetral que divide un elemento de otro
+
+El margen es la separacion exterior entre un contenedor y otro.
+
+El Padding es la separacion en el interior del div.
+
