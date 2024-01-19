@@ -168,3 +168,37 @@ El margen es la separacion exterior entre un contenedor y otro.
 
 El Padding es la separacion en el interior del div.
 
+Responsive Design
+======================
+El diseño responsive se refiere a la capacidad de una interfaz web o aplicación para adaptarse y proporcionar una experiencia de usuario óptima en una variedad de dispositivos y tamaños de pantalla. Esto se logra mediante el uso de técnicas y tecnologías como media queries, flexbox, y grid layout.
+Media Queries: Utiliza consultas de medios para aplicar estilos específicos según el tamaño de la pantalla.
+```
+@media only screen and (max-width: 600px) {
+  /* Estilos para pantallas con ancho máximo de 600px */
+  ...
+}
+
+```
+Flexbox y Grid Layout: Emplea flexbox y grid layout para crear diseños fluidos y adaptables.
+```
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+```
+Imágenes Responsive: Utiliza la propiedad max-width: 100%; en imágenes para que se ajusten al tamaño de su contenedor.
+
+```
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+```
+
