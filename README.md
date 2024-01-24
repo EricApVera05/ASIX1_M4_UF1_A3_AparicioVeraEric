@@ -179,7 +179,7 @@ Media Queries: Utiliza consultas de medios para aplicar estilos específicos seg
 }
 
 ```
-Flexbox y Grid Layout: Emplea flexbox y grid layout para crear diseños fluidos y adaptables.
+Utilizamos flex y grid para crear diseños adaptables.
 ```
 .container {
   display: flex;
@@ -192,7 +192,7 @@ Flexbox y Grid Layout: Emplea flexbox y grid layout para crear diseños fluidos 
 }
 
 ```
-Imágenes Responsive: Utiliza la propiedad max-width: 100%; en imágenes para que se ajusten al tamaño de su contenedor.
+Imágenes Responsive: Utilizamos max-width: 100%; en imágenes para que se ajusten al tamaño de su contenedor.
 
 ```
 img {
