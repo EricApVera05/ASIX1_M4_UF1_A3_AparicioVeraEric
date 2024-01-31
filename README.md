@@ -51,6 +51,7 @@ la corrección se realiza con los principios generales del derecho ya que no enc
 -[] Opción A
 -[X] Opción B
 -[] Opción C
+
 GIT
 ======================
 git init: Inicializa un repositorio.
