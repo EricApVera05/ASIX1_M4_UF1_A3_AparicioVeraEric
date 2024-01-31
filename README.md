@@ -1,6 +1,72 @@
 # ASIX1_M4_UF1_A3_AparicioVeraEric
+# MARKDOWN
+##### SUBTITULO
+
+Este texto está en *cursiva*.
+Este texto está en _cursiva_.
+Este texto está en **negrita**.
+Este texto está en __negrita__.
+
+Este texto está en **_negrita y cursiva_**
+
+Este texto está en __*negrita y cursiva*__
+
+1. Primera opción de menú
+2. Segunda opción de menú
+3. Tercera opción de menú
+
+* Primera opción de lista desordenada
+* Segunda opción de lista desordenada
+- tercera opción de lista desordenada
+    1. primer submenú
+    2. segundo submenú 
+- cuarta opción de lista desordenada
+    * tercer submenú
+    * cuarto submenú
+- quinta opción de lista desordenada
++ sexta opción de lista desordenada
++ septima opción de lista desordenada
+
+Hay distintas clases de analogía: la analogía legis, es la aplicación de la ley cuando existe una laguna legal; analogía iuris; 
+la corrección se realiza con los principios generales del derecho ya que no encuentro una ley que presente eadem ratio, por eso me dirijo a los principios generales del derecho.
+```
+<html>
+<head>
+</head>
+<body>
+    <p> Esto es un parrafo?<p>
+</body>
+</html>
+```
+![Esto es una imagen](https)
+
+|Primera Col.| Segunda Col.| Tercera Col|
+|------------|:-----------:|-----------:|
+|Col 2 es|Centrada| 35€|
+|Col 3 es|Derecha| 135€|
+|Estilo Cebra|Gris|Blanco|
+|Clase|ASIX1|M4|
+
+
+-[] Opción A
+-[X] Opción B
+-[] Opción C
+GIT
+======================
+git init: Inicializa un repositorio.
+
+git add: Añade cambios al área de preparación.
+
+git commit: Guarda los cambios en el repositorio.
+
+git push: Sube cambios a un repositorio remoto.
+
+git pull: Descarga cambios de un repositorio remoto.
+
+git branch: Muestra y crea ramas.
 
 06/10/2023
+
 HTML
 ======================
 Las etiquetas se dividen en etiquetas de apertura y etiquetas de cierre.
@@ -139,3 +205,52 @@ Sintaxis: selector1 > selector2 {}
 Selector descendiente
 Un elemento es descendiente de otro cuando se encuentra entre las etiquetas de apertura y de cierre del elemento padre.
 Sintaxis: selector1 selector2{}
+
+13/12/2023
+
+DIV
+======================
+Estructura los elementos.
+
+El bloque se adapta al contenido que tenga dentro
+
+El borde es la linea perimetral que divide un elemento de otro
+
+El margen es la separacion exterior entre un contenedor y otro.
+
+El Padding es la separacion en el interior del div.
+
+Responsive
+======================
+El diseño responsive se refiere a la capacidad de una interfaz web o aplicación para adaptarse y proporcionar una experiencia de usuario óptima en una variedad de dispositivos y tamaños de pantalla. Esto se logra mediante el uso de técnicas y tecnologías como media queries, flexbox, y grid layout.
+Media Queries: Utiliza consultas de medios para aplicar estilos específicos según el tamaño de la pantalla.
+```
+@media only screen and (max-width: 600px) {
+  /* Estilos para pantallas con ancho máximo de 600px */
+  ...
+}
+
+```
+Utilizamos flex y grid para crear diseños adaptables.
+```
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+```
+Imágenes Responsive: Utilizamos max-width: 100%; en imágenes para que se ajusten al tamaño de su contenedor.
+
+```
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+```
+
