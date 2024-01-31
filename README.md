@@ -38,7 +38,7 @@ la corrección se realiza con los principios generales del derecho ya que no enc
 </body>
 </html>
 ```
-![Esto es una imagen](https)
+![Esto es una imagen](./img/playa.jpg)
 
 |Primera Col.| Segunda Col.| Tercera Col|
 |------------|:-----------:|-----------:|
